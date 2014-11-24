@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.0.0'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
@@ -48,3 +50,4 @@ gem 'bootstrap-sass', '~> 3.3.0'
 gem 'autoprefixer-rails'
 gem 'devise', '>= 3.2.4'
 gem 'simple_form'
+gem 'rails_12factor'
