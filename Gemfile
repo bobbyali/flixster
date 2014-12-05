@@ -52,3 +52,6 @@ gem 'devise', '>= 3.2.4'
 gem 'simple_form'
 gem 'rails_12factor'
 gem 'simple_form'
+gem 'carrierwave'
+gem "figaro"
+gem "fog", "~> 1.3.1"
